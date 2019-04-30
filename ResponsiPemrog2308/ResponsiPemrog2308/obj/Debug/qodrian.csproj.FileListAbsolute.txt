@@ -1,0 +1,7 @@
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\bin\Debug\qodrian.exe.config
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\bin\Debug\qodrian.exe
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\bin\Debug\qodrian.pdb
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\obj\Debug\qodrian.csprojAssemblyReference.cache
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\obj\Debug\qodrian.csproj.CoreCompileInputs.cache
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\obj\Debug\qodrian.exe
+C:\Users\Iqbal\AppData\Local\Temporary Projects\qodrian\obj\Debug\qodrian.pdb

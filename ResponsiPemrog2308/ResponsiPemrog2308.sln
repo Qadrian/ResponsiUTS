@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiPemrog2308", "ResponsiPemrog2308\ResponsiPemrog2308.csproj", "{FACE3C47-F55C-4F45-B4CE-8A8BC5DE7D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACE3C47-F55C-4F45-B4CE-8A8BC5DE7D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACE3C47-F55C-4F45-B4CE-8A8BC5DE7D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACE3C47-F55C-4F45-B4CE-8A8BC5DE7D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACE3C47-F55C-4F45-B4CE-8A8BC5DE7D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA2518E-D0BF-4415-97D3-9B9830A684E0}
+	EndGlobalSection
+EndGlobal
